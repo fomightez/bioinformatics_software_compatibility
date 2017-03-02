@@ -6,5 +6,5 @@ Certain bioinformatics software is commonly used in tandem with other software. 
 Software
 --------
 
-[TopHat2 and Bowtie compatibility](http://tophat2-and-bowtie-compatibility.readthedocs.io/en/latest/)
-[Bioconductor and R compatibility](http://r-and-bioconductor-compatibility.readthedocs.io/en/latest/)
+* [TopHat2 and Bowtie compatibility](http://tophat2-and-bowtie-compatibility.readthedocs.io/en/latest/)
+* [Bioconductor and R compatibility](http://r-and-bioconductor-compatibility.readthedocs.io/en/latest/)
