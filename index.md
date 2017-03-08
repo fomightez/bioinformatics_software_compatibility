@@ -1,7 +1,7 @@
 Bioinformatics Software Compatibility
 =====================================
 
-Certain bioinformatics software is commonly used in tandem with other software. Often certain versions are needed of each to be compatible in a pipeline or workflow. Knowing the details can make installations and Docker builds much easier.
+Certain bioinformatics software is commonly used in tandem. Often certain versions are needed of each to be compatible in a pipeline or workflow. Knowing the details can make installations and Docker builds much easier.
 
 Software
 --------
